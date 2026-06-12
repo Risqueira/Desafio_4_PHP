@@ -7,13 +7,15 @@
 </head>
 <body>
     
-    //exemplos de PHP
-    <a href="exemplo1.php"></a>
-    <a href="exemplo2.php"></a>
-    <a href="exemplo3.php"></a>
+    // exemplos de PHP
+    <br><a href="exemplo1.php">Exemplo 1</a><br>
+    <a href="exemplo2.php">Exemplo 2</a><br>
+    <a href="exemplo3.php">Exemplo 3</a><br>
+
+    <br>
 
     //Bloco 1: Algoritmos Sequenciais (Cálculos Simples)<br>
-    <a href="">1 - Conversor de moedas</a><br>
+    <a href="Bloco1/exe1.php">1 - Conversor de moedas</a><br>
     <a href="">2 - Calculadora de Área e Perímetro</a><br>
     <a href="">3 - Consumo de Combustível</a><br>
 
@@ -26,7 +28,7 @@
 
     <br><br>
 
-    //Bloco 3: Estruturas Condicionais (switch/case) <br>
+    // Bloco 3: Estruturas Condicionais (switch/case) <br>
     <a href="">7 - Dia da Semana</a> <br>
     <a href="">8 - Operações Matemáticas (Calculadora Simples)</a> <br>
     <a href="">9 - Mês por Extenso</a>
